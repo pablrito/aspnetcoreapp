@@ -1,0 +1,10 @@
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.deps.json
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\bin\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\dev\shareops-sc-api\aspnetcoreapp\aspnetcoreapp\obj\Debug\netcoreapp2.0\aspnetcoreapp.pdb
